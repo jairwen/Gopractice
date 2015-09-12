@@ -19,7 +19,9 @@ I said that
 > dark is for stars.
 
 * Styling Text
+
 *Italic* surround by \*
+
 **Strong** surround by \*\*
 
 
@@ -37,7 +39,9 @@ firstheader|secod header
 1|2
 3|4
 
-* List with \[\] \[x\] 
+* List with \* \- and optional \[\] \[x\] 
+- 1
+- 2
 - [x] @mentions, #refs, [links](),**formatting** and <del>tags</del>
 - [ ] incomplete item
 
@@ -45,6 +49,12 @@ with \*
 * SHA: a5c3785ed8d6a35868bc169f07e40e889087fd2e
 * Another
 *
+
+with number 123
+
+1. ok
+2. three
+3. four
 
 
 
