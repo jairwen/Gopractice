@@ -5,6 +5,24 @@ Test Go language here
 Use this Project to practice & learn go language
 
 ## also familiar with MD 
+
+* HEADLINE 
+# ```#```
+## ```##```
+### ```###```
+#### ```####```
+###### ```######```
+
+
+* Blockquotes
+I said that
+> dark is for stars.
+
+* Styling Text
+*Italic* surround by \*
+**Strong** surround by \*\*
+
+
 * code block use three \`\`\`
 ```go
 function test(){
