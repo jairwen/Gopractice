@@ -14,5 +14,6 @@ function test(){
 create to table by \|
 
 firstheader|secod header
+-----------|------------
 1|2
 3|4
