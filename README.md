@@ -25,7 +25,7 @@ I said that
 **Strong** surround by \*\*
 
 
-* code block use three \`\`\`
+* code block use three \`\`\`(multiline) and \`(in a line)
 ```go
 function test(){
 	fmt.Println("test")
@@ -40,6 +40,7 @@ firstheader|secod header
 3|4
 
 * List with \* \- and optional \[\] \[x\] 
+
 - 1
 - 2
 - [x] @mentions, #refs, [links](),**formatting** and <del>tags</del>
@@ -56,6 +57,21 @@ with number 123
 2. three
 3. four
 
+* Links
 
+create link by wrapping link text in `[]` and link in `()`
+[Google](https://www.google.com)
+
+* Emoji wrapping by `:`
+
+:sparkles:
+:camel:
+:boom:
+[Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+
+
+* Image Embedded by `![Image of Somthing](image link)`
+
+![Google Logo](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 
