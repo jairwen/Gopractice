@@ -1,6 +1,7 @@
 # Gopractice
 Test Go language here
 Add...
+CONFlICT HERE: F1 SAY HELLO:
 
 ## Intro
 Use this Project to practice & learn go language
