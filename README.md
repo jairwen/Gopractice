@@ -1,6 +1,7 @@
 # Gopractice
 Test Go language here
 Add...
+CONFLICT: MASTER SAY HI
 
 ## Intro
 Use this Project to practice & learn go language
